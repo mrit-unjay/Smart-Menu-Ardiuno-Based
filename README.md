@@ -38,7 +38,7 @@ Press the buttons to select items and confirm your order.
 View total cost on the LCD screen.
 Reset to start a new order.
 🧑‍💻 Author
-Your Name
+Mritunjay Bhardwaj
 B.Tech, MIT Art, Design and Technology University
 📄 License
 This project is open-source and free to use under the MIT License.
@@ -46,39 +46,4 @@ This project is open-source and free to use under the MIT License.
 🔗 Useful Links
 Arduino Official Site
 LiquidCrystal Library Docs
-About
-An Arduino-based digital menu system using buttons and an LCD display to select items, confirm orders, and view total cost — ideal for modernizing restaurant ordering. A Hardware based learning project used for understanding Arduino ATMEGA328P concepts.
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-C++
-100.0%
-Suggested workflows
-Based on your tech stack
-C/C++ with Make logo
-C/C++ with Make
-Build and test a C/C++ project using Make.
-SLSA Generic generator logo
-SLSA Generic generator
-Generate SLSA3 provenance for your existing release workflows
-CMake based, multi-platform projects logo
-CMake based, multi-platform projects
-Build and test a CMake based project on multiple platforms.
-More workflows
-Footer
-© 2025 GitH
